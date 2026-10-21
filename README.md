@@ -1,7 +1,7 @@
 # TVET Guide Management System
 
 A desktop application built with **Java Swing**, **NetBeans**, and **MySQL** to manage TVET (Technical and Vocational Education and Training) information. The current implementation provides a login screen and management modules for training centres, courses, teachers, teacher-course assignments, and course training plans.
-//...........
+
 ## Features
 
 - **Login**
