@@ -128,3 +128,8 @@ Suggestions, bug reports, and improvements are welcome. For significant changes,
 ## License
 
 No license file is currently included. Unless a license is added, reuse and redistribution permissions are not explicitly granted.
+
+## SRS
+
+[TVET_SRS_v1.0.pdf](https://github.com/user-attachments/files/34166803/TVET_SRS_v1.0.pdf)
+
